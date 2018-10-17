@@ -10,6 +10,7 @@ To change the password, run the following RACADM command:
 Default user <index> value of 1
 > racadm set iDRAC.Users.1.Password ADMIN
 ##  User Permissions or Privilege  (WIP - MAYBE WRONG!)
+
 |iDRAC Specific User Privilege	|Privilege Bit Mask|
 |---|---|
 |Log in to iDRAC | 0x00000001 |
