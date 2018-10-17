@@ -18,20 +18,26 @@ Shutdown Server
 
 >racadm serveraction graceshutdown
 
+
 View current job queue
 >racadm jobqueue view
+
 
 Delete/Cancel all Job in Jobqueue
 >racadm jobqueue delete --all
 
+
 Get Systems information
 >racadm getsysinfo
+
 
 List Hardware
 >racadm hwinventory
 
+
 List Software
 >racadm swinventory
+
 
 Collect & Export Tech Support Report
 >racadm techsupreport collect -t SysInfo,TTYLog
