@@ -12,6 +12,8 @@ Remote RACADM command syntax
 >racadm -r 192.168.1.1 -u root -p calvin command
 
 ## Top Commands
+iDRAC reset
+>racadm racrest
 
 Shutdown Server
 >racadm serveraction powerdown
@@ -45,3 +47,8 @@ Collect & Export Tech Support Report
 >racadm techsupport export -f tsr_repot.zip
 
 >racadm techsupreport export -l //192.168.0/share -u myuser -p xxx
+
+## Bonus Commands
+ Custom LCD String
+ 
+ racadm 
