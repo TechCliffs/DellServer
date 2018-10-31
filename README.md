@@ -23,5 +23,6 @@ RACADM Cheat Sheets
 ## iDRAC
 
 
-
+<html>
 <meta name="google-site-verification" content="PaLe1bnAt9rcy4vCIlbZq05CyvNMAXMjW2z7yGicMBw" />
+</html>
