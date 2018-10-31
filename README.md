@@ -24,4 +24,4 @@ RACADM Cheat Sheets
 
 
 
-google-site-verification: googlea56401754143afeb.html
+<meta name="google-site-verification" content="PaLe1bnAt9rcy4vCIlbZq05CyvNMAXMjW2z7yGicMBw" />
