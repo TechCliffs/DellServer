@@ -22,8 +22,3 @@ RACADM Cheat Sheets
 * [OMSA - Unattended Install](https://github.com/TechCliffs/Notes/blob/master/OMSA/OMSA_Cheat_Sheet.md)
 ## iDRAC
 
-
-
-<html>
-<meta name="google-site-verification" content="PaLe1bnAt9rcy4vCIlbZq05CyvNMAXMjW2z7yGicMBw" />
-</html>
