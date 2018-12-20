@@ -1,6 +1,10 @@
 # DELL EMC PowerEdge iDRAC 9 Notes
 A collection of TechCliffs Notes for Dell EMC PowerEdge 14G Servers
 
+## IPMI
+Dell EMC PowerEdge servers adhere to Intelligent Platform Management Interface (IPMI) to standard to manage servers.
+* [IPMI - Guide](https://downloads.dell.com/solutions/general-solution-resources/White%20Papers/Overview_of_Dell_Embedded_Systems_Management_Using_IPMI.pdf)
+
 ## RACADM
 RACADM Install Notes
 
