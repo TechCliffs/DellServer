@@ -11,7 +11,7 @@ RACADM Install Notes
 RACADM Type| Connection | Installation Package
 ----|----|----
 Firmware | Direct iDRAC IP | None (Built-in)
-Local| Local inband OS | OpenManage Server Administrator Manged Node
+Local| Local inband OS | OpenManage Server Administrator Manged Node & ISM & DRACTools (9.2+)
 Remote| Mangement Station| DRACTools with RACADM 
 
 
