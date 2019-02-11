@@ -1,4 +1,4 @@
-# DELL EMC PowerEdge iDRAC 9 Notes
+# DELL EMC PowerEdge iDRAC 9 Cookook
 A collection of TechCliffs Notes for Dell EMC PowerEdge 14G Servers
 
 ## IPMI
