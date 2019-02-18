@@ -48,6 +48,10 @@ Collect & Export Tech Support Report
 
 >racadm techsupreport export -l //192.168.0/share -u myuser -p xxx
 
+On-demand BIOS setting sRecovery (Corrupt or Malicious attack)
+>racadm recover BIOS.Setup.1-1
+
+
 ## Bonus Commands
  Custom LCD String
  
