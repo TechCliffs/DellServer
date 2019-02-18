@@ -26,3 +26,5 @@ RACADM Cheat Sheets
 * [OMSA - Unattended Install](https://github.com/TechCliffs/Notes/blob/master/OMSA/OMSA_Cheat_Sheet.md)
 ## iDRAC
 
+## Updating firmware from Lifecycle Controller / iDRAC.
+ftp.dell.com is no longer supported. I recommend using https://downloads.dell.com for the URL. 
